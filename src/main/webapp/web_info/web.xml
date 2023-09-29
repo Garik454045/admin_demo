@@ -35,4 +35,10 @@
         <url-pattern>/welcome</url-pattern>
     </servlet-mapping>
 
+    <servlet-mapping>
+        <servlet-name>WelcomeServlet</servlet-name>
+        <url-pattern/>
+    </servlet-mapping>
+
+
 </web-app>
